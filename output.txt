@@ -1,0 +1,35 @@
+davante adams
+ stats:
+Receptions: O 91.5, O 91.5
+Receiving Yards: O 1100.5, U 1100.5
+Receiving Touchdowns: O 7.5, U 7.5
+Rushing Yards: Not found, Not found
+Rushing Touchdowns: Not found, Not found
+Fantasy Points: 200.8
+
+breece hall
+ stats:
+Receptions: O 59.5, O 59.5
+Receiving Yards: O 500.5, U 500.5
+Receiving Touchdowns: O 3.5, U 3.5
+Rushing Yards: O 975.5, U 975.5
+Rushing Touchdowns: O 7.5, U 7.5
+Fantasy Points: 243.35
+
+dk metcalf
+ stats:
+Receptions: O 70.5, O 70.5
+Receiving Yards: O 1000.5, U 1000.5
+Receiving Touchdowns: O 7.5, U 7.5
+Rushing Yards: Not found, Not found
+Rushing Touchdowns: Not found, Not found
+Fantasy Points: 180.3
+
+cooper kupp stats:
+Receptions: O 76.5, O 76.5
+Receiving Yards: O 950.5, U 950.5
+Receiving Touchdowns: O 6.5, U 6.5
+Rushing Yards: Not found, Not found
+Rushing Touchdowns: Not found, Not found
+Fantasy Points: 172.3
+
